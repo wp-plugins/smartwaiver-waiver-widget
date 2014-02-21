@@ -33,3 +33,4 @@ For an automatic installation through WordPress:
 3. Click **Activate Plugin**.
 4. Login to Smartwaiver. Go to the [Waiver Widget Editor](https://www.smartwaiver.com/m/webpl/webpl.php?webpl_create). Customize the look and feel of your widget and then **copy the HTML** code from the box on the right of the screen.
 5. Go back to your WordPress admin page and click on **Settings > Smartwaiver**. Now **paste the HTML code**, copied from Smartwaiver, into the text box and click **Update Waiver**.
+6. Confirm your Waiver Widget is appearing on your site's public pages.
