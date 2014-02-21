@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to easily add the Smartwaiver Waiver Widget to your WordPress Site so customers can sign your digital waiver without ever leaving your site!
+Easily add the Smartwaiver Waiver Widget to your WordPress site so customers can sign your digital waiver without ever leaving your site.
 
 == Description ==
 
@@ -15,13 +15,13 @@ This plugin allows you to easily add the Smartwaiver Waiver Widget to your WordP
 
 All you need is a Smartwaiver account and the plugin.
 
-In your [Smartwaiver account](https://www.smartwaiver.com/p/Service_Plans) you’ll be able to customize the look and feel or your widget to match your WordPress site.
+In your [Smartwaiver account](https://www.smartwaiver.com/p/Service_Plans) you’ll be able to customize the look and feel of your widget to match your WordPress site.
 
 == Installation ==
 
 For an automatic installation through WordPress: 
 
-1. Go to the ‘Add New’ plugins screen in your WordPress admin area.
+1. Under the plugins tab, select 'Add New' in your WordPress admin page.
 2. Search for ‘Smartwaiver Waiver Widget’.
 3. Click ‘Install Now’ and activate the plugin.
 4. Copy and paste the HTML code from your [Smartwaiver account](https://www.smartwaiver.com/kb/166/) into the text box in WordPress.
